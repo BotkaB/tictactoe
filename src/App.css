@@ -18,3 +18,8 @@
   color: #61dafb;
 }
 
+.jatekter{
+  display: grid;
+  grid-template-columns: repeat(3,60px);
+}
+
